@@ -2,7 +2,7 @@
 
 Project Overview
 
-This project is an emotion detection web application developed as the final graded project of a Coursera course focused on developing applications using Python and Flask.
+This project is an emotion detection web application developed as the final graded project of a Coursera course with the help of AI focused on developing applications using Python and Flask.
 
 The application takes a text input from the user and analyzes it to identify different emotions expressed in the text. The detected emotions are processed and formatted to provide a clear and meaningful output.
 
